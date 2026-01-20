@@ -77,21 +77,8 @@ KPivot/
 - Windows 10/11
 - .NET Framework 4.8
 - Microsoft Excel 2016 or later
-- Visual Studio 2022 (for development)
+- Visual Studio 2022 or 2026 (for development)
 
-## Building
-
-### Option 1: Using Visual Studio
-1. Open `KPivot.csproj` in Visual Studio
-2. Build → Build Solution (Ctrl+Shift+B)
-3. Output: `bin\Release\net48\KPivot-AddIn64-packed.xll` (or `KPivot-AddIn-packed.xll` for 32-bit)
-
-### Option 2: Using Command Line
-```batch
-dotnet build KPivot.csproj -c Release
-```
-
-Or run `build.bat`
 
 ## Installation
 
