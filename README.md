@@ -1,9 +1,12 @@
 # KPivot
 KPivot is an Excel add-in that facilitates work with pivot tables in Excel.
 
-v1.0 released in January 2026 based on Excel VBA.
-v2.0 released in January based on .NET framework and Excel-DNA tool.
-v2.1.1 released on 22/01/2026 with some bugs fixed.
+
+## Version tracker
+#v1.0 released in January 2026 based on Excel VBA.
+#v2.0 released in January based on .NET framework and Excel-DNA tool.
+#v2.1.1 released on 22/01/2026 with some bugs fixed.
+#v.2.2.0 released on 26/01/2026 with two new functions: export selected and unselected filter values to a list. 
 
 # KPivot Excel Add-in
 
